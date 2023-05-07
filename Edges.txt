@@ -1,0 +1,23 @@
+Dubai,United Arab Emirates UAE,Karachi,Pakistan,15000
+Dubai,United Arab Emirates UAE,Makkah,Saudia Arabia,40000
+Dubai,United Arab Emirates UAE,Istanbul,Turkey,50000
+Karachi,Pakistan,Dubai,United Arab Emirates UAE,15000
+Karachi,Pakistan,Makkah,Saudia Arabia,70000
+Karachi,Pakistan,Tokyo,Japan,50000
+Karachi,Pakistan,Istanbul,Turkey,50000
+Karachi,Pakistan,Bangkok,Thailand,60000
+Istanbul,Turkey,Dubai,United Arab Emirates UAE,50000
+Istanbul,Turkey,London,United Kingdom,70000
+Istanbul,Turkey,New York,United States Of America,55000
+London,United Kingdom,Istanbul,Turkey,70000
+London,United Kingdom,Karachi,Pakistan,110000
+New York,United States Of America,London,United Kingdom,125000
+New York,United States Of America,Istanbul,Turkey,55000
+New York,United States Of America,Tokyo,Japan,126000
+Makkah,Saudia Arabia,Karachi,Pakistan,70000
+Makkah,Saudia Arabia,Dubai,United Arab Emirates UAE,40000
+Makkah,Saudia Arabia,Tokyo,Japan,80000
+Tokyo,Japan,Bangkok,Thailand,46000
+Tokyo,Japan,Dubai,United Arab Emirates UAE,40000
+Bangkok,Thailand,New York,United States Of America,80000
+Bangkok,Thailand,Karachi,Pakistan,60000

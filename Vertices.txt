@@ -1,0 +1,8 @@
+Dubai,United Arab Emirates UAE
+Karachi,Pakistan
+Tokyo,Japan
+Makkah,Saudia Arabia
+New York,United States Of America
+London,United Kingdom
+Istanbul,Turkey
+Bangkok,Thailand
